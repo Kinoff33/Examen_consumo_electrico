@@ -1,0 +1,23 @@
+{
+  "name": "examen_consumo_electrico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kinoff33/Examen_consumo_electrico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kinoff33/Examen_consumo_electrico/issues"
+  },
+  "homepage": "https://github.com/Kinoff33/Examen_consumo_electrico#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
